@@ -7,9 +7,7 @@
         <title><?php wp_title();?></title>
         <meta name="description" content="">
 
-        <!-- build:css style.css -->
-        <link href="style.css" rel="stylesheet" type="text/css">
-        <!-- endbuild -->
+        <link href="<?php bloginfo('stylesheet_url'); ?>" rel="stylesheet" type="text/css">
 
         <?php wp_head();?>
     </head>
