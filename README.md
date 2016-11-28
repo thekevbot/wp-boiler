@@ -1,8 +1,8 @@
 #Easy Wordpress Boilerplate
 
-This boilerplate is designed to set up a local Wordpress dev environment. It's set up to make it really easy for multiple team-members to work on a site simultaneously.
+This boilerplate is designed to set up a local Wordpress dev environment really quickly. It includes plugins like Gulp and BrowserSync, and makes it really easy for multiple team members to work on the same website project.
 
-Setup is easy:
+###Setup is easy:
 
 1. Fork this repo and rename it to whatever you want
 2. Clone this new repo to your local machine
