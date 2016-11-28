@@ -15,3 +15,5 @@ This boilerplate is designed to set up a local Wordpress dev environment really 
 9. Log in to the Wordpress admin area
 10. Navigate to `Appearance > Themes` and activate the `Boiler` theme.
 11. Navigate to the `Plugins` tab and activate all plugins.
+
+###Happy building! :)
